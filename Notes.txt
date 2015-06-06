@@ -1,0 +1,57 @@
+Succeeding silently failing violently
+
+Paul Pham
+
+UGE SEA-W29
+
+#sea-w29
+
+unix:
+Milti Process
+Multi User
+
+Android = Limux iOS = Darwin
+
+UNIX = Stable Fast etc... 
+
+3 benefits: 
+
+All Data is plaintext files
+
+Many Small Programs
+
+INPUT - OUTPUT redirection
+
+
+	HISTORY => Screen  Separated
+	History => File and version the file
+	rake
+
+
+Uses of Version Control
+1. Backup
+2. sharing source code
+3. Collaboration
+
+
+Git Stage: 
+Commits are safe from deletions
+Untracked files == Unstaged == Dirty
+
+Add  - command adds untracked files to the stage. "Changes are staged" but not commited. 
+
+
+Commit - Commits files to to committed. 
+
+modify - Takes files from committed to unstaged/untracked
+
+A repo is clean when a stage is completely committed. 
+
+
+
+Five Parts of a commit
+Timestamp
+Message
+Lines/Files
+Identity (Author)
+Unique ID / Hash

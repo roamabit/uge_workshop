@@ -1,0 +1,27 @@
+    1  rake -v
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd uge_workshop/
+    6  history > unix_notes.txt
+    7  ls
+    8  less unix_notes.txt 
+    9  git init
+   10  ls -l
+   11  ls -a
+   12  ls -al
+   13  ls .git
+   14  cd .git
+   15  ls
+   16  ls-alt
+   17  ls -alt
+   18  cd ..
+   19  git status
+   20  git add unix_notes.txt
+   21  git status
+   22  git status
+   23  git commit -m "Add initial version of unix notes."
+   24  git status
+   25  subl unix_notes.txt 
+   26  git ls -a
+   27  history > git_notes.txt
