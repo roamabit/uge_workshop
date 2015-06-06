@@ -1,0 +1,6 @@
+    1  rake -v
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd uge_workshop/
+    6  history > unix_notes.txt
