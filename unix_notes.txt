@@ -1,3 +1,5 @@
+ 
+ # Inserting a comment for you to accept
     1  rake -v
     2  ls
     3  cd ..
