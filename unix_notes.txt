@@ -4,3 +4,4 @@
     4  ls
     5  cd uge_workshop/
     6  history > unix_notes.txt
+    7  New Notes
