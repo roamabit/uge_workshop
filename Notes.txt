@@ -55,3 +55,22 @@ Message
 Lines/Files
 Identity (Author)
 Unique ID / Hash
+
+
+Path from One commit to the next is only tracking the lines that have changed from one commit to the next commit. And applying the changes sequentially will lead to the full change from A to C. 
+
+HEAD always points to the most recet commit on te branch. Head is the home directory. 
+
+Branches. ... are not tracked in the commits. THey are just the notes on individual commits. Label Master is just a 
+
+
+
+git remote -v Shows the current connected remote git repo
+
+ssh-keygen -t rsa (Generates new KeyPair public key)
+
+cat ~/.ssh/id_rsa.pub   displays the keypair public key to add to the remote repo
+
+
+
+
